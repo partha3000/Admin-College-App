@@ -1,0 +1,15 @@
+<resources>
+    //Main Activity
+    <string name="app_name">Admin College App</string>
+    <string name="Notice">Upload Notice</string>
+    <string name="Galley">Upload Image</string>
+    <string name="Ebook">Upload Ebook</string>
+    <string name="Faculty">Upload Faculty</string>
+    <string name="Delete">Delete Notice</string>
+
+    //other Activity
+    //Upload Notices
+    <string name="UploadImage">Select Image</string>
+    <string name="noticeTitle">Notice title</string>
+    <string name="UploadNoticeText">Upload Notice</string>
+</resources>
